@@ -1,0 +1,15 @@
+C:\Users\hp\source\repos\Wpf_Quiz\Wpf_Quiz\bin\Debug\Wpf_Quiz.exe.config
+C:\Users\hp\source\repos\Wpf_Quiz\Wpf_Quiz\bin\Debug\Wpf_Quiz.exe
+C:\Users\hp\source\repos\Wpf_Quiz\Wpf_Quiz\bin\Debug\Wpf_Quiz.pdb
+C:\Users\hp\source\repos\Wpf_Quiz\Wpf_Quiz\obj\Debug\Wpf_Quiz.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\Wpf_Quiz\Wpf_Quiz\obj\Debug\MainWindow.g.cs
+C:\Users\hp\source\repos\Wpf_Quiz\Wpf_Quiz\obj\Debug\App.g.cs
+C:\Users\hp\source\repos\Wpf_Quiz\Wpf_Quiz\obj\Debug\Wpf_Quiz_MarkupCompile.cache
+C:\Users\hp\source\repos\Wpf_Quiz\Wpf_Quiz\obj\Debug\Wpf_Quiz_MarkupCompile.lref
+C:\Users\hp\source\repos\Wpf_Quiz\Wpf_Quiz\obj\Debug\MainWindow.baml
+C:\Users\hp\source\repos\Wpf_Quiz\Wpf_Quiz\obj\Debug\Wpf_Quiz.g.resources
+C:\Users\hp\source\repos\Wpf_Quiz\Wpf_Quiz\obj\Debug\Wpf_Quiz.Properties.Resources.resources
+C:\Users\hp\source\repos\Wpf_Quiz\Wpf_Quiz\obj\Debug\Wpf_Quiz.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\Wpf_Quiz\Wpf_Quiz\obj\Debug\Wpf_Quiz.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Wpf_Quiz\Wpf_Quiz\obj\Debug\Wpf_Quiz.exe
+C:\Users\hp\source\repos\Wpf_Quiz\Wpf_Quiz\obj\Debug\Wpf_Quiz.pdb
